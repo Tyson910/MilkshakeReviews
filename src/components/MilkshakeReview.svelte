@@ -7,7 +7,7 @@
   let showTooltip = false;
 </script>
 
-<div class="rounded-lg bg-white p-5 shadow-sm">
+<div class="rounded-lg bg-white p-5 shadow-sm scroll-mt-10" id={dishName}>
   <div class="">
     <p class="text-xl font-semibold text-gray-900">{dishName}</p>
     <p class="text-sm text-gray-500 mt-1">
