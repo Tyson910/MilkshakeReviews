@@ -1,0 +1,25 @@
+---
+export interface Props {
+	title: string;
+	meta_description: string;
+}
+
+const { title, meta_description } = Astro.props;
+import "@styles/global.css";
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<title>{title}</title>
+		<meta name="description" content={meta_description} />
+		<!-- Used by Googe -->
+		<meta itemprop="description" content={meta_description} />
+	</head>
+	<body class="bg-gray-50">
+		<slot />
+	</body>
+</html>
