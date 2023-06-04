@@ -21,7 +21,7 @@ const ratingNumArr = [-3, -2, -1, 0, 1, 2, 3];
 		<section class="container py-20">
 			<div class="flex flex-col">
 				<h1 class="font-bold text-3xl mb-4">
-					{title}
+					The Cookout Milkshake Challenge
 				</h1>
 				<p class="font-light text-neutral-500">
 					Last Updated:
@@ -68,8 +68,8 @@ const ratingNumArr = [-3, -2, -1, 0, 1, 2, 3];
 							<ul class="divide-y divide-gray-200">
 								{
 									ratingNumArr.map((rating) => (
-										<li class="p-4 sm:px-6 flex flex-row odd:bg-gray-100 even:bg-white">
-											<div class="w-28">{rating} star{rating != 1 && 's'}</div>
+										<li class="py-6 md:p-4 sm:px-6 flex flex-col gap-y-2 text-center md:text-left md:flex-row odd:bg-gray-100 even:bg-white">
+											<div class="md:w-28">{rating} star{rating != 1 && 's'}</div>
 											<div class="">{ratingObj[rating]}</div>
 										</li>
 									))
@@ -80,7 +80,7 @@ const ratingNumArr = [-3, -2, -1, 0, 1, 2, 3];
 				</div>
 			</article>
 		</section>
-		<section class="bg-secondary pt-10 pb-20">
+		<section class="bg-gray-100 pt-10 pb-20">
 			<div class="container">
 				<MilkShakeContainer client:idle />
 			</div>
