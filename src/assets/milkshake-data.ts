@@ -45,12 +45,12 @@ const foodEmojis = {
 
 export const ratingObj: Rating = {
   "-3":
-    "\u{1F922} Do not try this. Ever. If they are out of everything else on the menu you should just go home.",
+    "Do not try this. Ever. If they are out of everything else on the menu you should just go home.",
   "-2":
-    "Awful. Would only recommend this if they are out of everything else on the menu ",
+    "Awful. Would only recommend this if they are out of everything else on the menu",
   "-1": "Bad. try this dish at your own risk",
-  0: "Unremarkable. Wouldn’t recommend",
-  1: "Good not great. Would recommend if you’re not sure what else to get",
+  0: "Unremarkable. Wouldn't recommend",
+  1: "Good not great. Would recommend if you're not sure what else to get",
   2: "Great. Would recommend to everyone to try at least once if they get a chance",
   3: "Excellent. Splendid. Marvelous. You should go out of your way to try this",
 };
