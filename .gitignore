@@ -3,7 +3,8 @@ dist/
 
 # generated types
 .astro/
-
+# sqlite
+*.db
 # dependencies
 node_modules/
 
