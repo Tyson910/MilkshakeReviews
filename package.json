@@ -13,6 +13,7 @@
     "generate": "drizzle-kit generate:sqlite",
     "push": "drizzle-kit push:sqlite",
     "seed": "tsx ./database/seed.ts",
+    "setup:db": "npm run generate && npm run push && npm run seed"
   },
   "dependencies": {
     "@astrojs/svelte": "^5.0.3",
