@@ -12,6 +12,7 @@ function main() {
     websiteURL: string | null;
     address: string | null;
     phone: string | null;
+    metro: string;
   }[] = [];
 
   const citiesArr = [];
