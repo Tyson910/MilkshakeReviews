@@ -12,6 +12,7 @@
     "parse": "tsx parse-reviews.ts",
     "generate": "drizzle-kit generate:sqlite",
     "push": "drizzle-kit push:sqlite",
+    "seed": "tsx ./database/seed.ts",
   },
   "dependencies": {
     "@astrojs/svelte": "^5.0.3",
