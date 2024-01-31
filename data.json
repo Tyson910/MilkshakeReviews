@@ -1,0 +1,802 @@
+[
+  {
+    "websiteURL": "https://beckettstable.com/",
+    "address": "3717 E. Indian School Road, Phoenix.",
+    "phone": "602-954-1700",
+    "review": "Beckett's Table is co-owned by two couples, chef Justin and his wife Michelle Beckett and sommeliers Katie and Scott Stephens. The restaurant offers comfort food with pizzazz and great service. One of the best dishes is grilled cheese served on a pillowy brioche bun, sprinkled with more cheese. You can order it with or without pancetta and it's served with a hearty cup of creamy tomato and roasted red pepper soup. It's the best grilled cheese sandwich you've ever tasted. For dessert, don't miss the award-winning pecan and fig pie a la mode.  ",
+    "name": "Beckett's Table ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "http://chicagohamburger.com/",
+    "address": "3749 E. Indian School Road, Phoenix.",
+    "phone": "602-955-4137",
+    "review": "It’s exactly what it sounds like, only better. Everything is good, but start with the traditional Chicago dog paired with a chocolate milkshake. Pro tip: Dip fries in a cup of chili. Fabulous.  ",
+    "name": "Chicago Hamburger Company ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "https://wrigleymansion.com/christophers/",
+    "address": "2501 E. Telawa Trail, Phoenix.",
+    "phone": "602-522-2344",
+    "review": "Amuse bouche presented on a sculpted hand, creamy foie gras, crispy gougere and perfectly cooked A-5 wagyu with bearnaise are just a few highlights from a recent eight-course tasting menu at Christopher's. Chef Christopher Gross' culinary playground is housed in a modern glass addition to the famous Wrigley Mansion, and the dining room offers views of Camelback Mountain and Downtown Phoenix that almost rival the food. Almost. It's little wonder that Gayot called the experience a \"culinary ecstasy.\"    ",
+    "name": "Christopher's at Wrigley Mansion ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "https://crutacos.com",
+    "address": "3961 E. Camelback Road, Phoenix.",
+    "phone": "602-687-7777",
+    "review": "This modern taqueria is the brainchild of chef Richard Hinojosa and oenophile and sommelier Jason Morris, who is the former co-founder of Quench Wines. CRUjiente offers chef-driven crunchy (crujiente) and street tacos and some of the best margaritas in the Valley. Both taco and beverage programs have been mentioned in Forbes, thanks to the inventive ways Hinojosa uses tortillas as blank canvases. Don't skip the Korean fried chicken tacos.  ",
+    "name": "CRUjiente Tacos ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "http://www.essencebakery.com/",
+    "address": "3830 E. Indian School Road, Phoenix.",
+    "phone": "602-296-4958",
+    "review": "Stepping into Essence feels like entering a Mediterranean café. Chef Eugenia Theodosopoulos manages to make dishes like quiche Lorraine and spanakopita feel light, despite a French-level use of butter, and her bread, pastries and cookies are the stuff of legend. If you only order one thing, make it a chocolate croissant. ",
+    "name": "Essence Bakery ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "https://www.glaibaanaz.com/",
+    "address": "2333 E. Osborn Road, Phoenix.",
+    "phone": "602-595-5881",
+    "review": "Yeah, you might have to throw back a beer at the bar around the corner while you wait for a table, but this Thai restaurant is worth the fuss. It is cozy enough for date night and the place to take out-of-towners. Don't get me started on the perfect patio. Order plates to share (don't miss the crisp yum het tod and pad kee mao) and find your cocktail of choice, whether it's the passionfruit-brandy Sunshowers or herbed fan fav Laab Sided. ",
+    "name": "Glai Baan ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "https://jewelsbakeryandcafe.com/",
+    "address": "4041 E. Thomas Road, Suite 101, Phoenix.",
+    "phone": "602-714-5243",
+    "review": "I go to Jewel's Café because everything is gluten-free, but even my friends with no dietary restrictions are obsessed with the deliciously fluffy waffles and fried chicken. The best time to go is brunch, but whenever I'm in the area, I can't help but stop and grab something from the bakery.  ",
+    "name": "Jewel's Cafe ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "https://noblebread.com/eatery/",
+    "address": "4525 N. 24th St., Phoenix.",
+    "phone": "602-688-2424",
+    "review": "Fresh bread and one special sandwich keep me coming back to Noble over and over. The semolina loaf needs no introduction, but have you tried the tuna sandwich?  Tuna is mixed with potato, pinto beans, grains and parsley, drizzled with Cabernet vinegar and olive oil and topped with arugula. It’s light and bright and perfect served stuffed into house-made, wood-fired pide. You might not think the combination of fish with pinto beans is a natural fit, but Noble will make you a believer.  ",
+    "name": "Noble Eatery ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "https://www.renatashearth.com/",
+    "address": "2400 E. Missouri Ave., Phoenix.",
+    "phone": "602-954-2507",
+    "review": "Located inside the historic Arizona Biltmore Hotel, this Latin-inspired restaurant uses smoke as an ingredient in drinks like the jet-black Los Muertos cocktail made with serrano-infused reposado, agave, lime and black lava salt, colored with activated charcoal and served with flourish from under a smoked cloche. The theme continues on the food menu with deceptively simple dishes like charred Spanish octopus a la Veracruz. Renata's churros are legendary and the only right way to finish your meal.   ",
+    "name": "Renata's Hearth ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "https://tacoschiwas.com",
+    "address": "Multiple locations; I visit the original location at 1028 E. Indian School Road, Phoenix.",
+    "phone": "602-358-8830",
+    "review": "I trust the judgment of the Mayor of Flavortown. One bite of the barbacoa tacos and the gorditas at Tacos Chiwas — both sampled by Guy Fieri during his 2017 trip there for “Diners, Drive-Ins and Dives” — and I knew there was something special about this place. Readers agree: they recently named Tacos Chiwas’ carne asada and calabacitas tacos among metro Phoenix's best tacos. ",
+    "name": "Tacos Chiwas ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "https://www.thegladly.com/",
+    "address": "2201 E. Camelback Road, Phoenix.",
+    "phone": "602-759-8132",
+    "review": "Call it whatever name you wish — the Stetson Chopped Salad, the Original Chopped Salad, Arizona's \"state salad\" — the genuinely iconic Bernie Kantak dish is served here and reason enough to go. But the menu of new American classics has plenty more to brag about, from burgers and legit fries to brussels sprouts over grits and chocolate chip cookies, which yes, you do need in your life.   ",
+    "name": "The Gladly ",
+    "metro": "Phoenix - Camelback East"
+  },
+  {
+    "websiteURL": "https://www.supremeshawarma.com/",
+    "address": "4929 W. Ray Road, Chandler.",
+    "phone": "480-940-2384",
+    "review": "In a Chandler strip mall at the intersection of Ray and Rural roads, Ali Al Zubaidi makes some of the best I've eaten anywhere. And trust me, I've eaten my share of slivered meat from Dubai to Istanbul. At Supreme Shawarma, tender, crisp-edged shavings of chicken come swaddled in flatbread along with creamy garlic toum, pickles and a few French fries. No matter where you live, this shawarma is worth the journey to get here. ",
+    "name": "Supreme Shawarma ",
+    "metro": "Chandler, Gilbert and Ahwatukee"
+  },
+  {
+    "websiteURL": null,
+    "address": "5055 W. Ray Road, Chandler.",
+    "phone": "480-718-5088",
+    "review": "No frills. Just great, authentic Chinese food. The mapo tofu is outrageously good. Spicy chicken lo mein? Sure. If you’re feeling adventurous give homestyle pig intestine a try.  ",
+    "name": "Szechwan Garden ",
+    "metro": "Chandler, Gilbert and Ahwatukee"
+  },
+  {
+    "websiteURL": "https://www.sakanasushiandgrill.com/",
+    "address": null,
+    "phone": null,
+    "review": "Sushi is my comfort food and this tiny neighborhood hideaway has been my go-to spot for at least 20 years. The salmon nigiri is silky and fresh and the Red Dragon roll is an over-the-top creation incorporating raw tuna, veggie and tempura. There are noodle bowls and other cooked dishes for folks who don’t feel like raw fish. Snag a seat at the sushi bar if you can and watch the chefs create beautiful platters. ",
+    "name": "Sakana Sushi and Grill ",
+    "metro": "Chandler, Gilbert and Ahwatukee"
+  },
+  {
+    "websiteURL": "https://www.verochicagopizza.com/",
+    "address": null,
+    "phone": null,
+    "review": "Vero, which originally opened as Buddyz, is exactly what you want in a neighborhood pizza joint, with generously topped pies and servers who greet you by name. I like to grab a spot at the bar or community table and chat with my neighbors while waiting for my meal. The pan pizza is authentic, its thick crust crisped in a buttered pan for a steamy combination of crunchy bite and tender chew. The menu lists lots of creative combos, but a simple pepperoni pan pizza here stands up to anything I’ve had in Chicago. ",
+    "name": "Vero Chicago Pizza ",
+    "metro": "Chandler, Gilbert and Ahwatukee"
+  },
+  {
+    "websiteURL": "https://mingleandgraze.com/",
+    "address": "48 S. San Marcos Place, Suite A, Chandler,",
+    "phone": "480-726-2264",
+    "review": "A cheese shop and restaurant in charming downtown Chandler, this is a place where the staff will remember you by name along with your favorite dishes. Owned by Mahfam Moeeni-Alacron and her husband, Cristobal, the couple showcase her Persian and his Chilean heritage in the food and hospitality. As a bonus, the eatery also features a wine shop called Spin the Bottle.    ",
+    "name": "Mingle and Graze ",
+    "metro": "Chandler, Gilbert and Ahwatukee"
+  },
+  {
+    "websiteURL": "https://www.joesfarmgrill.com/",
+    "address": "3000 E. Ray Road, Gilbert.",
+    "phone": "480-563-4745",
+    "review": "My dad is not a French fry person. But the garlic fries drizzled in olive oil and scattered with Pecorino Romano cheese at Joe’s Farm Grill changed that. Joe’s is a neighborhood spot in the heart of Agritopia in Gilbert that, at least to me, is the definitive spot for comfort food. The burgers, made from locally sourced ground chuck, are the stars here. If you’re brave like me, you'll go for the Flamin’ Southwest Burger topped with jalapenos and ghost pepper jack cheese. ",
+    "name": "Joe's Farm Grill ",
+    "metro": "Chandler, Gilbert and Ahwatukee"
+  },
+  {
+    "websiteURL": "https://eatatsource.com/",
+    "address": null,
+    "phone": null,
+    "review": "Claudio Urciuoli’s newest restaurant Source is all about simple, beautiful Mediterranean food made with the highest quality ingredients. The menu is simple, with fresh baked breads, salads, sandwiches and pizzas, like my favorite the coppa, which comes topped with tomato sauce, mozzarella, baby artichokes, oregano and capicollo — a dry-aged Italian salumi made from pork neck and shoulder on a pizza crust that’s so thin and airy it’s somehow light and satisfying at the same time.  ",
+    "name": "Source ",
+    "metro": "Chandler, Gilbert and Ahwatukee"
+  },
+  {
+    "websiteURL": "https://asaderonortesonora.weebly.com/menu.html",
+    "address": "122 N. 16th St., Phoenix,",
+    "phone": "602-253-4010",
+    "review": "Asadero Norte de Sonora is a standby on 16th Street, known for dishes that come off their mesquite grill, from chicken to parillada mixed platters of carne asada, cabeza and barbacoa, all served with fresh tortillas and housemade salsa. It’s simple and it’s perfect.  ",
+    "name": "Asadero Norte de Sonora ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.bacanoraphx.com/",
+    "address": "1301 NW Grand Ave., Unit 1, Phoenix.",
+    "phone": "602-612-4018",
+    "review": "Bacanora burst onto the dining scene in 2021 and no one has shut up about it since. Myself included. The Republic gave it a five-star review. Chef Rene Andrade showcases Sonoran foods cooked exclusively over his mesquite grill. He elevates classics with what some may call technical skill honed over years, but what I call utter witchcraft. A cucumber salad has no business being as delicious and memorable as he makes it, with nutty sesame seeds, the heat of chiltepin peppers and a dash of salsa negro or soy, if he's in the mood to add it that night. Brunch, which is walk-in only, is just as memorable with dishes like oxtail chilaquiles and a fierce michelada.  ",
+    "name": "Bacanora ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.instagram.com/badjimmys/",
+    "address": null,
+    "phone": null,
+    "review": "James Piazza, the owner of Bad Jimmy's food truck, opened a brick-and-mortar in the downtown Phoenix restaurant space that formerly housed Breadfruit and Rum Bar on Nov. 30. Some might say it’s too soon to call it an essential restaurant, but with the simple menu of perfectly cooked cheeseburgers made using local beef, solid fries and an excellent full bar, I say it’s exactly what downtown needed and has quickly become a go-to spot for seriously great food and drinks that won’t break the bank. ",
+    "name": "Bad Jimmy's ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "http://www.barriocafe.com/#!blank-1/mainPage",
+    "address": "2814 N. 16th St., Phoenix.",
+    "phone": "602-636-0240",
+    "review": "You can’t talk about restaurants in Phoenix without talking about James Beard semifinalist for Best Chef 2023, chef Silvana Salcido Esparza who opened Barrio Cafe in 2002. She ushered in a new era of regional, modern Mexican cuisine, paving the way for places like Bacanora and Cocina Chiwas. Esparza is an icon not only for her guacamole topped with pomegranate seeds and cochinita pibil, but also for her social activism and dedication to the Phoenix community.  ",
+    "name": "Barrio Cafe ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://thechurchillphx.com/",
+    "address": null,
+    "phone": null,
+    "review": "This 9,000-square-foot courtyard surrounded by restaurants, bars and shops is a great place to try new concepts, many of which graduate to their own digs later. The pro move is to order a cocktail or two from Brill Line and get a pie to share from Freak Brothers Pizza.  ",
+    "name": "Churchill ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://galloblancocafe.com/",
+    "address": "928 E. Pierce St., Phoenix.",
+    "phone": "602-327-0880",
+    "review": "Gallo margaritas forever — plus the elote, the cortado, the tacos and the chilaquiles. Well, and obviously the salsas. Doug Robson's downtown Mexican joint remains a standby. ",
+    "name": "Gallo Blanco  ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.gardenbarphx.com/",
+    "address": "822 N. Sixth Ave., Phoenix.",
+    "phone": "602-612-4438",
+    "review": "Housed in a 1940s bungalow tucked off a side street in downtown Phoenix, I can’t count the times I’ve started, ended or spent my entire evening at Garden Bar. The largely female mixology team is award-winning, and for good reason. The drinks are incredibly complex, totally delicious and incorporate many local ingredients, including honey that owner Kim Haasarud sources locally based on terroir. The food is just as thoughtful, with perhaps one of the largest and most generous charcuterie boards around and a bread board perfect for soaking up the second (or third) drink you’ll undoubtedly order. ",
+    "name": "Garden Bar ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.hotdaisypizza.com/",
+    "address": "610 E. Roosevelt St., Ste 145, Phoenix.",
+    "phone": "602-840-3644",
+    "review": "I fell in love with slice joints when I lived in New York City. In what other scenario can you enjoy a red slice, a white slice and a curveball in one meal? At Hot Daisy, the offerings range from classic pepperoni, which can be ordered firefighter style with hot peppers, to an elote slice — a surprise favorite for a purist like me. They're all good. Order more than you think you can eat, because there's nothing better than leftover pizza. ",
+    "name": "Hot Daisy ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.ilboscopizza.com/",
+    "address": null,
+    "phone": null,
+    "review": "Il Bosco Pizza sits just off Roosevelt Row in a cute little bungalow, flying decidedly under the radar and serving a reliably wonderful menu of simple Italian salads, a few appetizers and a serious lineup of where-did-that-come-from flavor-packed Neapolitan-style pizzas like the Za, which comes topped with red sauce, pepperoni, spicy sausage, hatch green chile, peppadew peppers, Calabrian Chile, mozzerrella and a drizzle of honey. Bonus points for the fact you can get in on most nights without much of a wait. ",
+    "name": "Il Bosco Pizza ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.facebook.com/mrswhites.goldenrulecafe",
+    "address": "808 E. Jefferson St., Phoenix.",
+    "phone": "602-262-9256",
+    "review": "Opened by Elizabeth White in 1964, Mrs. White's is the longest-standing soul food restaurant in metro Phoenix. The original building hasn't changed much and the menu is simple, but people still come from far and wide for the signature fried chicken, smothered pork chops and homemade cornbread. ",
+    "name": "Mrs. White’s Golden Rule Cafe ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.instagram.com/Novel_PHX/?fbclid=IwAR3vJczUvNXnWnQJIBALBiXHwhSct2rDv53K12wVDtgH9AR5zDQptAPiy1A",
+    "address": "1028 Grand Ave., Cottage 6, Phoenix,",
+    "phone": "602-373-2235",
+    "review": "This is my favorite place for ice cream and where I bring all my out-of-town guests, many of whom now require a visit to Novel every time they come to Phoenix. I'd skip a meal to save room for the Zoe Dough Melt, a glazed doughnut stuffed with honey lavender ice cream and rolled in cinnamon crunch cereal. It’s “chef’s kiss” perfection every time. ",
+    "name": "Novel Ice Cream ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.pembertonphx.com/",
+    "address": null,
+    "phone": null,
+    "review": "This retail and food park built on the grounds of the historic Sarah H. Pemberton House near Roosevelt Row has become a kind of proving ground for emerging chefs and mixologists, like the cocktail crew behind Khla and Liar's Club, who still serve creative drinks at Baby Boy, housed in an Airstream trailer. On any given night (except Mondays and Tuesdays), you can meander through pop-up art installations and peruse menus for vegan soul food, French wine or fish tacos. ",
+    "name": "The Pemberton ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.pizzeriabianco.com/",
+    "address": "623 E. Adams St., Phoenix.",
+    "phone": "602-258-8300",
+    "review": "As a fan of Neapolitan style, wood-fired pizza, I was curious, and a little skeptical of the high praise and accolades surrounding Chris Bianco’s destination artisan pizza restaurant. I'm here to tell you that it’s absolutely worth the hype. Pizzeria Bianco boasts a number of unique specialties like the Rosa, topped with red onion, Parmesan, rosemary and Arizona pistachios; and the Biancoverde, which includes mozzarella, Parmesan, ricotta and arugula. I went with a classic on my first visit, opting for the margherita with tomatoes, mozzarella and basil. The quality of the ingredients set it apart dramatically from similar pizzas I've eaten in the past. Go here at least once to see what the fuss is about. ",
+    "name": "Pizzeria Bianco ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.ritosmexicanfood.com/",
+    "address": null,
+    "phone": null,
+    "review": "Family-owned Rito’s Mexican Food was voted best burrito in Phoenix by readers, and for good reason. While green chili burritos are their specialty, they also offer great chimichangas, tacos and tostadas at their four Valley locations. ",
+    "name": "Rito’s Mexican Food ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.sottisephx.com/",
+    "address": "1025 N. Second St., Phoenix.",
+    "phone": "602-254-6378",
+    "review": "The baby sister of Restaurant Progress in Melrose stands on her own, but with family resemblances where they count: exceptional service, a well-appointed wine list and dishes I can't help but reorder each visit. The French — but not stuffy-French — menu leans seafood heavy, but the horseradish-spiked beets and baked brie beckon. And if you're lucky, the somm just might (try to) teach you to sabre a bottle of bubbly. ",
+    "name": "Sottise ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "http://www.trattophx.com/restaurant",
+    "address": "1505 E. Van Buren St., Phoenix.",
+    "phone": "602-296-7761",
+    "review": "Chris Bianco is legendary for his pizza, made with local white Sonoran wheat, but his very best restaurant is this temple of pasta. The dishes are deceptively simple, but the use of incredibly fresh, seasonal ingredients in genius combinations like pasta topped with roasted cherry tomatoes, dried zucchini and hot chile or grilled peaches nestled under seared pork chops make eating at Tratto a culinary adventure. Everything is good. Better than you expect. Paired with superb service and a great bar program, this is the \"special occasion\" place I recommend without hesitation to anyone asking. ",
+    "name": "Tratto ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.google.com/search?gs_ssp=eJzj4tVP1zc0zLAwtEwySSkyYLRSNaiwMDdKMjQ2sUxJS0xLszQ3tjKoMDc2NzYwTjMzMTE2SzZKsfDiLMtMVEhJzclJBAA0gBHH&q=via+della&rlz=1C1GCEB_enUS961US961&oq=via+dell&gs_lcrp=EgZjaHJvbWUqFQgBEC4YJxivARjHARiABBiKBRiOBTIGCAAQRRg5MhUIARAuGCcYrwEYxwEYgAQYigUYjgUyBwgCEAAYgAQyBwgDEAAYgAQyEwgEEC4YgwEYrwEYxwEYsQMYgAQyBwgFEAAYgAQyBwgGEC4YgAQyBwgHEAAYgAQyBwgIEAAYgAQyBggJEEUYO9IBCDMyNjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+    "address": null,
+    "phone": null,
+    "review": "Did I mention I love a slice shop? We’re pretty #blessed in Phoenix to have several good ones and Via Della is among the best. I’m pretty obsessed with the white pie topped with caramelized onions on a sesame seed crust and the spicy sausage pie topped with Schreiners sausage, Calabrian chilis, ricotta and hot honey. But I recently discovered the green pie that’s topped with pesto crema, jalapeño -pineapple marmalade (what?), a pistachio crumble and vegan reggiano “cheese”. I thought they were joking. It was just so... cheesy. It’s an assault to the senses in the best way and I don’t know how I’ll ever visit again without ordering it. ",
+    "name": "Via Della Slice Shop ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://mattsbigbreakfast.com/",
+    "address": "Multiple locations, but I visit the original in downtown Phoenix, 825 N. First St., Phoenix.",
+    "phone": "602-254-1074",
+    "review": "Many good mornings in Phoenix start at Matt’s Big Breakfast. I know from personal experience that I have far more energy to get through the day whenever I start it off with a Hog and Chick platter, which I order with two scrambled eggs and bacon or sausage. Other than the food, the best thing about the place is the fact you can fulfill your breakfast cravings until closing time at 2 p.m., unlike many fast-food chains where breakfast ends the moment the clock strikes 10:30 a.m. ",
+    "name": "Matt's Big Breakfast  ",
+    "metro": "Downtown Phoenix"
+  },
+  {
+    "websiteURL": "https://www.allpierogi.com/",
+    "address": "1245 W. Baseline Road, Mesa.",
+    "phone": "480-262-3349",
+    "review": "Nataliya Koshalko and her small crew of cooks from Eastern Europe make thousands of pierogi each day, stuffing them with fillings like cheese and chive, sauerkraut and potato or tart plum. Besides the namesake dumplings, the homey restaurant is also a great place to taste traditional Slavic specialties like smoked sausage and plov rice before buying a bag of frozen pierogi to take home. ",
+    "name": "All Pierogi Kitchen  ",
+    "metro": "Mesa"
+  },
+  {
+    "websiteURL": "http://www.besthongkongdining.com/",
+    "address": "1116 S. Dobson Road, #123, Mesa.",
+    "phone": "480-655-8262",
+    "review": "You know the red-lacquered Cantonese barbecue that hangs from hooks like macabre window dressings in Chinatown restaurants around the country — not to mention in storefronts from Hong Kong to Guangzhou? They may not be as prominently displayed, but the char siu pork and duck hanging beside the register at Best Hong Kong Dining tastes just as good. Chopped and served atop a platter of rice, this is the real deal.  ",
+    "name": "Best Hong Kong Dining ",
+    "metro": "Mesa"
+  },
+  {
+    "websiteURL": "https://www.espiritumesa.com/",
+    "address": null,
+    "phone": null,
+    "review": "Once you’re within a block of Espiritu on Main Street in Mesa, you’ll smell the burning mesquite. Follow your nose and head inside the Mexican gothic cocktail bar, grab a barstool and order a La Toxica — mezcal, pineapple amaro, Xila agave liqueur, spiced chai and egg whites. If you’re just there for a nibble, get the smoked white fish, which comes with slices of intensely garlicy sourdough bread and house-brined cauliflower, carrots and cucumber pickles. Sounds simple, tastes revolutionary. And that’s just the intro. Find out what the special is, whether grilled half chickens served with tortillas and smoky beans, or whatever else they’re cooking up on the grill and you won’t likely go wrong. ",
+    "name": "Espiritu  ",
+    "metro": "Mesa"
+  },
+  {
+    "websiteURL": "https://hopesfrybread.com/",
+    "address": null,
+    "phone": null,
+    "review": "Diné chef Hope Peshlakai uses her grandmother's fry bread recipe at her restaurant in Mesa, where she tops the rounds with burgers, teriyaki chicken and house chili beans with lettuce and tomatoes. Her dessert frybreads include plain with powdered sugar, s'mores, plus Nutella and banana. Her menu is a delicious marriage of tradition and innovation. ",
+    "name": "Hope's Fry Bread",
+    "metro": "Mesa"
+  },
+  {
+    "websiteURL": "https://mekongplaza.com/",
+    "address": "66 S. Dobson Road, Mesa.",
+    "phone": "480-363-9009",
+    "review": "Located inside a former Target in Mesa, Mekong Plaza serves as a hub for Asian businesses and culture, drawing visitors for the namesake supermarket as well as over a dozen restaurants serving Chinese, Vietnamese, Filipino and Taiwanese cuisines. Highlights include delicious Chinese crepes from Master Jianbing, sizzling rice and meat plates from Sizzling House, boba from Tea Snow and banh mi sandwiches from Unphogettable. ",
+    "name": "Mekong Plaza   ",
+    "metro": "Mesa"
+  },
+  {
+    "websiteURL": "https://proofbread.com/",
+    "address": "125 W. Main St., Mesa.",
+    "phone": "480-270-8320",
+    "review": "Owners Jon Przybyl and Amanda Abou-Eid expanded from a garage to a commercial bakery and now sell their breads at their own shop and farmers markets all over the Valley. They use whole grains and a natural starter to bake their popular loaves and pastries. The sleeper hit of the menu is their excellent sourdough English muffin. ",
+    "name": "Proof Bread ",
+    "metro": "Mesa"
+  },
+  {
+    "websiteURL": null,
+    "address": null,
+    "phone": null,
+    "review": "The H Mart food court in Mesa is a wonderland of Japanese katsu, Asian pastries and, of course, Korean food. The bibimbap at Sogongdong Tofu & BBQ is what dreams are made of. The massive cast iron platter ensures tons of crispy rice. The right way to eat bibimbap is to mix up the rice, veggies, bulgogi beef and sweet-spicy gochujan sauce on the sizzling platter before digging in, but it’s such a beautiful presentation, I usually end up leaving it intact and skewering and mixing up just enough for each perfect bite.  ",
+    "name": "Sogongdong Tofu & BBQ ",
+    "metro": "Mesa"
+  },
+  {
+    "websiteURL": "http://www.worthtakeaway.com/",
+    "address": "218 W. Main St., Mesa.",
+    "phone": "480-833-2180",
+    "review": "This downtown Mesa sandwich spot is one of the few restaurants where it's so hard for me to resist trying something new every time. Worth Takeaway is perfect for satisfying the chicken sandwich craving that comes up all too often for me, but the Cuban, French dip and Italian grinder are also on my must-order list. The struggle is real. ",
+    "name": "Worth Takeaway ",
+    "metro": "Mesa"
+  },
+  {
+    "websiteURL": "https://xingfutang.com/",
+    "address": null,
+    "phone": null,
+    "review": "Xing Fu Tang, a Taiwanese tea shop, serves some of the best boba in Arizona, including my personal favorite: strawberry boba milk tea. They also host cup sleeve events, which provide an opportunity for K-pop fans to gather and celebrate their favorite idols or other fandoms.  ",
+    "name": "Xing Fu Tang ",
+    "metro": "Mesa"
+  },
+  {
+    "websiteURL": "https://phoenixcoqui.com/",
+    "address": "4041 N. 15th Ave., Phoenix.",
+    "phone": "602-768-7894",
+    "review": "Phoenix Coqui offers a comforting taste of Puerto Rico in Phoenix. The tiny restaurant, owned by Alexis Carbajal and Juan Ayala, makes a mouthwatering pernil plate. I always mean to try other dishes, but I can’t resist the pulled pork served with rice with a side salad for only $13.95. ",
+    "name": "Phoenix Coqui ",
+    "metro": "Phoenix - Midtown"
+  },
+  {
+    "websiteURL": "https://www.bellyphx.com/",
+    "address": "4971 N. Seventh Ave., Phoenix.",
+    "phone": "602-296-4452",
+    "review": "The menu at this Melrose destination blends Vietnamese and Mexican cuisines, among others. But if you can only choose one thing, the seared king mushrooms are an all-timer. You'll find natty wine and uber-boozy cocktails on the menu. Though the banh mi is no more, you can join us in hoping the jackfruit sando makes a comeback. ",
+    "name": "Belly ",
+    "metro": "Phoenix - Midtown"
+  },
+  {
+    "websiteURL": "http://restauranteelguanaquito.net",
+    "address": null,
+    "phone": null,
+    "review": "Guanaquito Restaurant, a Salvadoran restaurant and pupusería, is the best place to eat pupusas in the Valley. My favorites are the revueltas — a combination of cheese, pork rinds and beans. But if you’re looking for something a bit simpler, you can never go wrong with the cheese and beans combo.  ",
+    "name": "Guanaquito Restaurant ",
+    "metro": "Phoenix - Midtown"
+  },
+  {
+    "websiteURL": "https://www.facebook.com/franksnystyle",
+    "address": "2301 W. Orange Drive, Phoenix.",
+    "phone": "602-242-8288",
+    "review": "It's the neighborhood deli real ones know, because Frank's keeps things classic and has for decades. These beast-mode sub sandwiches could easily stretch over several meals, but why deny yourself the pleasure of being beyond stuffed with the cold cuts and cheeses of your choice?  ",
+    "name": "Frank's New York Style Deli ",
+    "metro": "Phoenix - Midtown"
+  },
+  {
+    "websiteURL": "https://frybreadhouseaz.com",
+    "address": "4545 N. Seventh Ave., Phoenix.",
+    "phone": "602-351-2345",
+    "review": "Founded by Cecilia Miller of the Tohono O'odham Nation, this James Beard Classics award-winning restaurant in the Melrose neighborhood is the place to go for Native American fry bread. Order the ultimate taco — available with ground beef, red chili or green chili — if you have a craving for something savory, but don't miss the sweet fry bread, which you can get topped with honey, powdered sugar or both. ",
+    "name": "Fry Bread House ",
+    "metro": "Phoenix - Midtown"
+  },
+  {
+    "websiteURL": "https://www.greatburgeraz.com/",
+    "address": "2801 N. 15th Ave., Phoenix.",
+    "phone": "602-263-8693",
+    "review": "Just north of Encanto Park, this classic spot has been serving massive burgers cooked over mesquite wood since 1977. These are the smokiest burgers in town and the kitschy condiment wagon is just the icing on the cake. Great local drafts seal the deal, making this smoky haunt my family's go-to burger joint. ",
+    "name": "Original Hamburger Works ",
+    "metro": "Phoenix - Midtown"
+  },
+  {
+    "websiteURL": "https://www.facebook.com/Reathrey-Sekong-Cambodian-Cuisine-133199290086725/",
+    "address": "1312 E. Indian School Road, Phoenix.",
+    "phone": "602-451-9792",
+    "review": "The first Cambodian restaurant in Phoenix, Lakhana In's family-run spot is still widely considered the best. It's the perfect place to try classic dishes like cha kreung, a stir fry built on a fragrant paste of lemongrass, makrut lime leaf, shallots, garlic, galangal and dried turmeric; an array of nom banh chok noodle dishes; and amok, a coconut fish curry that she steams and serves in a banana leaf. ",
+    "name": "Reathrey Sekong ",
+    "metro": "Phoenix - Midtown"
+  },
+  {
+    "websiteURL": "http://www.valentinephx.com/",
+    "address": "4130 N. Seventh Ave., Phoenix.",
+    "phone": "602-612-2961",
+    "review": "At Valentine, chef Donald Hawk and his team create many of the dishes with indigenous Sonoran ingredients. Mesquite and elote make appearances in pasta, and appetizers feature local tepary beans and huitlacoche butter. It's a beautiful homage to Arizona, right down to the name, which is a nod to Feb. 14, 1912, when Arizona officially became a state. The not-so-secret bar, located in an alley behind the restaurant, is aptly named 1912 and features a cocktail menu almost as exciting as what's coming out of the kitchen up front.  ",
+    "name": "Valentine ",
+    "metro": "Phoenix - Midtown"
+  },
+  {
+    "websiteURL": "https://chompies.com/",
+    "address": null,
+    "phone": null,
+    "review": "RIP the Tempe location. The locations still standing remain the type of deli with pages of menu items, almost all of which are delightful. But who are we kidding? You’re here for the bagels. (And they don’t disappoint.) ",
+    "name": "Chompie’s ",
+    "metro": "Phoenix - North Phoenix"
+  },
+  {
+    "websiteURL": "https://www.facebook.com/El-super-taco-104668684613950/?paipv=0&eav=Afb4sfGPPRwVRME2ZwZ3ujyeEIRtVGz7Ugzjz5U5qvDKnPp-_x3Tz4uwNLmL5482H30&_rdr",
+    "address": "14620 N. Cave Creek Road, Phoenix.",
+    "phone": "602-585-2150",
+    "review": "The pile of mesquite wood in front of this tiny restaurant is the first sign that you're in a good place. The second is the smell of slow-simmered birria de res that hits you upon opening the door. Order the quesa birria combo, a perfect plate of three crispy, cheese-filled birria tacos and a hearty bowl of consommé along with access to the condiment bar, filled with essentials like shredded cabbage, cilantro, chopped onion, radishes and salsas that range from tingly to oh-my-goodness-give-me-the-cabbage levels of heat. ",
+    "name": "EL Super Taco ",
+    "metro": "Phoenix - North Phoenix"
+  },
+  {
+    "websiteURL": "https://www.mayaskitchenaz.com/home",
+    "address": "2948 E. Bell Road #102, Phoenix.",
+    "phone": "602-867-4904",
+    "review": "I’m on a quest to find the best Indian food in Arizona, and so far, Maya's Kitchen is my favorite. I usually order chicken tikka masala with chili naan, but the dal makhani and chicken biryani are also great and have made it into my rotation. The warm chai offered free to guests dining-in is an especially nice touch. ",
+    "name": "Maya's Kitchen ",
+    "metro": "Phoenix - North Phoenix"
+  },
+  {
+    "websiteURL": "https://pvburgercompany.com/",
+    "address": "4001 E. Bell Road #102, Phoenix. And in Tempe.",
+    "phone": "602-535-4930",
+    "review": "Unpopular opinion, but I think regular burgers are lame. That said, I’m here for the unusual combination of a famous French dessert and an American delicacy that is the PVBC burger brûlée. It comes topped with a fried egg, bacon, onions, burnt sugar, Havarti and Thousand Island dressing. To keep with the theme, I skip the french fries and order French toast fries instead. ",
+    "name": "Paradise Valley Burger Company ",
+    "metro": "Phoenix - North Phoenix"
+  },
+  {
+    "websiteURL": "https://losreyesaz.com/menu",
+    "address": "9230 N. Seventh St., Phoenix.",
+    "phone": "602-870-2967",
+    "review": "The original and still the best, this longtime, family-owned Mexican restaurant specializes in its namesake sandwiches. The signature Del Rey is piled high with ham, melted mozzarella, pork sirloin, breaded beef, a sausage-chorizo omelet, fresh tomatoes, caramelized onions and avocado that's slathered in a chipotle sauce and served on teleras bread made at the adjoining bakery. These are serious sandwiches, but don't sleep on the quesadillas, which can be ordered either flour (de harina) or corn (de maiz). They're a good foot long with a variety of filling options. The pro move is to order them \"estilo Del Rey\" topped with green salsa, cheese, onions, cilantro and sour cream. ",
+    "name": "Los Reyes de la Torta ",
+    "metro": "Phoenix - North Phoenix"
+  },
+  {
+    "websiteURL": "http://www.zkgrill.com/",
+    "address": "4757 E. Greenway Road, Phoenix.",
+    "phone": "602-354-3663",
+    "review": "There are several great Persian restaurants in metro Phoenix, but if you want koobideh, this is the place to get it. When artfully molded onto a flat skewer and grilled over charcoal, the seemly simple combination of minced beef, shredded onion, salt and pepper becomes the stuff dreams are made of. Finished with a swipe of melted butter and sprinkle of tart sumac, the Iranian kebab is beefy and indulgent in the best way. Perfectly cooked basmati rice and a charred tomato complete the meal, billed as \"Ground Beef Entree.\" A total steal for $11.99. ",
+    "name": "ZK Grill ",
+    "metro": "Phoenix - North Phoenix"
+  },
+  {
+    "websiteURL": null,
+    "address": null,
+    "phone": null,
+    "review": "Set in a nondescript parking lot surrounded by office parks and overlooking the I-17 freeway, Seoul BBQ & Sushi doesn’t look like much from the outside, but the all-you-can-eat Korean barbecue is excellent and abundant. Despite the huge menu of meat and appetizer options included in the AYCE dinner deal, my favorite is the spicy beef bulgogi, which is the only meat we order along with bowls of rice and an endless stream of pickled banchan. ",
+    "name": "Seoul BBQ & Sushi   ",
+    "metro": "Phoenix - North Phoenix"
+  },
+  {
+    "websiteURL": null,
+    "address": "814 E. Union Hills Drive, C-6, Phoenix.",
+    "phone": "480-906-9757",
+    "review": "Ashkan and Diana Taheri opened Ava Bakery and Restaurant in north Phoenix on Seventh Street and E. Union Hills Drive in November 2022 and since then I’ve been more times than I can count. I visit weekly to pick up fresh baked sangak and barberi breads and at least a few times a month for classic Iranian sandwiches like sausage bandari served on their fresh baked bread or for a breakfast of haleem, a sweet-savory porridge, tomato and egg omelet or the simple Persian breakfast of fresh bread, cheese and homemade carrot preserves.  ",
+    "name": "Ava Bakery ",
+    "metro": "Phoenix - North Phoenix"
+  },
+  {
+    "websiteURL": "https://www.andreoli-grocer.com/",
+    "address": "8880 E. Vía Linda, Scottsdale.",
+    "phone": "480-614-1980",
+    "review": "When you walk into this restaurant and deli, it's like stepping back in time. Family pictures share wall space with photos of celebrities who've visited over the years. Owner and chef Giovanni Scorzo is nearly always there, either in the kitchen or at a table in the dining room having an espresso with his sons. The menu is a list of salads, cured meats and cheeses for antipasti, sandwiches served on focaccia and pasta dishes scribbled on a whiteboard. The epitome of classics, these plates rarely veer far from traditional preparations with the likes of rigatoni with homemade sausage and peas, potato gnocchi with pesto and penne in a veal red sauce. The food is as cozy as the crowded dining room. ",
+    "name": "Andreoli Italian Grocer  ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": "https://jlpatisserie.com/",
+    "address": "7342 E. Shea Blvd., #108, Scottsdale.",
+    "phone": "480-859-4459",
+    "review": "Let Jenna Leurquin be your go-to for French pastries. From macarons to croissants and baguettes, she delivers quality. My advice, try each of these at least once: baguette, Earl Grey macaron and almond croissant. For special occasions, she makes an elegant vanilla caramel that she pipes onto cakes to look like a flower and flecked with gold leaf. Magnifique. ",
+    "name": "JL Patisserie ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": "https://callhermartina.com/",
+    "address": "7135 E. Camelback Road, Suite 165, Scottsdale.",
+    "phone": "480-687-8592",
+    "review": "Call Her Martina opened in Old Town Scottsdale near the waterfront in 2022 and it continues to be my favorite stop when shopping in Fashion Square or biking the canal for anything involving their crispy charred ribeye, which tops everything from nachos to guacamole to tacos. The cocktails are inventive and strong, which makes for a perfect pairing.  ",
+    "name": "Call Her Martina ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": "https://courserestaurantaz.com/",
+    "address": "7366 E. Shea Blvd., Suite 106, Scottsdale.",
+    "phone": "480-687-0491",
+    "review": "Unpretentious fine dining defines Course restaurant. Chef Cory Oppold and his team remain approachable even as they create highly abstract, artistic presentations of familiar and nostalgic foods. Give the playful six-course brunch a try or bring a big appetite for the 10-course dinner. ",
+    "name": "Course ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": "https://defalcosdeli.com/",
+    "address": "2334 N. Scottsdale Road, Scottsdale.",
+    "phone": "480-990-8660",
+    "review": "The moment I first tasted the homemade sausage and marinara sauce in DeFalco’s sausage, peppers and onions sandwich, I felt like I'd finally found a place to satisfy my cravings for the Italian meals my family cooked. This deli has been a Valley staple since Italian immigrants John and Dora DeFalco opened it in 1972, and today they continue to serve Italian specialties from hot and cold sandwiches to pizzas and calzones, all based on family recipes passed down for a century. It’s hard to go wrong with anything on the menu. ",
+    "name": "DeFalco's Italian Grocery ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": "http://www.fnbrestaurant.com/",
+    "address": "7125 E. Fifth Ave., Suite 31, Scottsdale.",
+    "phone": "480-284-4777",
+    "review": "Chef Charleen Badman, James Beard award-winner for Best Chef Southwest 2019, ushered in the era of the vegetable-forward, hyper-seasonal fine dining in Arizona. She’s still at the helm, whether in the kitchen of the beloved Old Town restaurant or in a school garden teaching kids how to make vegetables they actually want to eat as part of The Blue Watermelon Project. FnB is a classic, and Badman is a local icon. ",
+    "name": "FnB ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": null,
+    "address": null,
+    "phone": null,
+    "review": "The best thing about Hai Noon, a new restaurant and cocktail bar opened by Sloane McFarland and Ian Rosales, the owner and chef of Welcome Diner, and James Beard Award-winning chef Nobuo Fukuda, are the playful bar snacks and incredible East-Meets-West drinks. Sidle up to the stylish counter and order the mixed nuts tossed in a sweet soy butter with ancho chile and order the Goma made with black sesame-infused tequila, sweet chile-laced agave and lime juice with a ground black sesame rim. It's a lightly sweet, tequila old fashioned gone off the rails in the best way possible. ",
+    "name": "Hai Noon ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": "https://www.meat.fish/",
+    "address": "2415 E. Indian School Road, Phoenix. And in Scottsdale.",
+    "phone": "602-596-4069",
+    "review": "Nelson's is one of the Valley's best sources for quality fish and meat. And they serve a mean lobster roll. This is not a restaurant, so patrons must follow a market's schedule. For example, the lobster roll is only available on Wednesdays for lunch. But trust me, it's so satisfying that it's worth the wait. They also opened a new outpost in north Phoenix earlier this year where they serve their infamous lobster rolls on Thursdays. ",
+    "name": "Nelson's Meat and Fish ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": null,
+    "address": "7133 E. Stetson Drive, Scottsdale.",
+    "phone": "480-699-8454",
+    "review": "I was walking down the street in Old Town Scottsdale when the Drunk Munk caught my eye. It’s kind of hard to miss with its red leather chairs and that illuminated Easter Island tiki head behind the bar. It looks like what it is – a Tiki bar and Polynesian Restaurant. The atmosphere and the happy hour prices (seven days a week!) make it a fun place to stop and spend a few hours enjoying the vibe with half-price appetizers like coconut shrimp and sushi rolls.  ",
+    "name": "The Drunk Munk ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": "https://www.persianroom.com/",
+    "address": "17040 N. Scottsdale Road, Scottsdale.",
+    "phone": "480-614-1414",
+    "review": "When my husband and I are feeling too lazy to cook, but crave excellent renditions of traditional Iranian foods, we go to the Persian Room for stews like herbaceous gormeh sabzi and gheimeh or labor-intensive appetizers like rich eggplant kashk bademjan. They make nearly the entire canon of polo, too — rice dishes studded with lentils and dates, sour cherries, candied carrots and pistachios, tangy barberries or simply tinged yellow with saffron and topped with butter. The grilled skewers of chicken jujeh, minced koobideh and tender steak sultani are expertly prepared as well. It's an incredibly homestyle spread, served in an over-the-top, gilded dining room. ",
+    "name": "Persian Room ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": "https://www.andazscottsdale.com/dining/menus?src=corp_outlets_gmb_seo_PHXAZR1",
+    "address": "6114 N. Scottsdale Road, Scottsdale.",
+    "phone": "480-214-4622",
+    "review": "Located inside Andaz Scottsdale Resort and Spa, Weft & Warp is my go-to place for desserts and brunch sweets. The whimsy keeps me coming back just to experience the ever-changing dessert menu.   ",
+    "name": "Weft & Warp Art Bar + Kitchen ",
+    "metro": "Scottsdale"
+  },
+  {
+    "websiteURL": "http://www.jlsmokehouse.com/",
+    "address": "1712 E. Broadway Road, Phoenix.",
+    "phone": "602-900-4296",
+    "review": "Whether your appetite is fit for a Whipper Snapper (two meats, one side) or a Slugger (six meats, four sides), pit master James Lewis’ BBQ restaurant near South Mountain is a must for smoked meat lovers. I go for everything from the tender pulled pork to the saucy ribs. And the Texas-style sausage is the best I've had in the Valley. ",
+    "name": "JL Smokehouse ",
+    "metro": "South Phoenix"
+  },
+  {
+    "websiteURL": "https://littlemissbbq.com/",
+    "address": "4301 E. University Drive, Phoenix,",
+    "phone": "602-437-1177",
+    "review": "As a general rule, I don't wait in line for food. Let alone an hour and a half. Yet, there I was on a hot summer day, praying they wouldn't run out of brisket before I reached the front of the line. Some days, I miss out on the pastrami special, sometimes I'm too late for the meltingly tender Texas-style brisket, but whatever's left when I get to the order counter is good enough to make me forget about the wait. ",
+    "name": "Little Miss BBQ ",
+    "metro": "South Phoenix"
+  },
+  {
+    "websiteURL": "https://losdosmolinosmesa.com/",
+    "address": "8646 S. Central Ave., Phoenix.",
+    "phone": "602-243-9113",
+    "review": "Great Mexican food that is really hot. In the best possible way. But to repeat: hot. How hot? The menu comes with this warning: “Food is spicy! You order it, you own it.” That hot. Everything is good and the margaritas are famous. ",
+    "name": "Los Dos Molinos ",
+    "metro": "South Phoenix"
+  },
+  {
+    "websiteURL": "https://www.qatthefarm.com/",
+    "address": "The Farm at South Mountain, 6106 S. 32nd St., Phoenix.",
+    "phone": "602-276-0601",
+    "review": "The Farm at South Mountain is as farm-to-table as you can get. The lush grounds are home to three restaurants. Morning Glory Café offers counter service breakfast dishes starring locally grown veggies and house-smoked salmon and brisket. The Kitchen, another counter service option, serves salads and sandwiches. Both venues are as much about picnicking at an idyllic farm as they are about the food. Then there's Quiessence, which is almost entirely about the food with its hyper-local tasting menu served under the stars. ",
+    "name": "The Farm at South Mountain ",
+    "metro": "South Phoenix"
+  },
+  {
+    "websiteURL": "http://cocinachiwasaz.com",
+    "address": null,
+    "phone": null,
+    "review": "Tacos Chiwas co-owners Armando Hernandez and Nadia Holguin opened Cocina Chiwas in Feb. 2023 and it feels like the culmination of all their collaborations and restaurant projects to date. The space is modern and airy, the service is friendly and the food coming off the mesquite grill Hernandez built himself is as surprising as it is familiar. The parrillada, which comes with grilled skirt steak, al pastor, a sweet-spicy papas con chorizo, rice, beans and corn tortillas might be the perfect meal. With one of the outstanding cocktails made largely with agave and local spirits, it’s a perfect night out.   ",
+    "name": "Cocina Chiwas ",
+    "metro": "Tempe"
+  },
+  {
+    "websiteURL": "https://www.goldenrestaurantbakery.com/",
+    "address": "1849 N. Scottsdale Road, Tempe.",
+    "phone": "480-656-4405",
+    "review": "This Lebanese bakery has a sprawling menu, but the specialty is fresh baked rounds of man'oushe, which you should definitely order topped with za'atar herbs and cheese. They also make one of the finest falafel sandwiches in town. The jumbo wrap comes stuffed not only with fried falafel, but also fried eggplant, cauliflower, fries, boiled eggs, tomatoes, pickles and tahini sauce. Be sure to get an extra side of garlicky toum to drizzle on between bites. ",
+    "name": "Golden Restaurant & Bakery ",
+    "metro": "Tempe"
+  },
+  {
+    "websiteURL": "https://mandi-house-llc.business.site/",
+    "address": "1639 E. Apache Blvd., Tempe.",
+    "phone": "480-659-4751",
+    "review": "If you've never had Yemeni comfort food, you're missing out on massive platters of spiced (but not spicy) rice topped with grilled or roasted chicken or lamb served with little cups of herbed yogurt and tomatoey Gulf Arab salsa. In addition to the namesake mandi, also try the Afro-Arabian specialty sambusa. The small, triangular fried pastries are filled with ground meat, cheese or vegetables, depending on the day. The no-frills dining room draws crowds of students from ASU looking for homecooked flavors. One bite and you'll understand what keeps them coming back. ",
+    "name": "Mandi House ",
+    "metro": "Tempe"
+  },
+  {
+    "websiteURL": "https://www.postinowinecafe.com/",
+    "address": "8749 S. Rural Road, Tempe.",
+    "phone": "602-325-2211",
+    "review": "What’s not to like about a place that serves 12 different types of bruschetta? Postino is a metro Phoenix institution with seven locations, each one an ideal hangout for sipping on a glass of wine while enjoying a bruschetta board. I recommend the burrata, bacon and arugula along with the chef’s charcuterie, which features an assortment of meats, cheeses and breads. ",
+    "name": "Postino Wine Cafe ",
+    "metro": "Tempe"
+  },
+  {
+    "websiteURL": "https://thechuckbox.com/",
+    "address": "202 E. University Dr., Tempe.",
+    "phone": "480-968-4712",
+    "review": "The Chuckbox is a Tempe staple that has served generations of ASU students since the 70’s. Not much has changed since opening – not the rustic design of the building, nor the award-winning hamburgers and chicken sandwiches on the menu – and that’s just the way the Tempe community likes it.  ",
+    "name": "The Chuckbox ",
+    "metro": "Tempe"
+  },
+  {
+    "websiteURL": "https://venezias.com/",
+    "address": "27 E. Southern Ave., Tempe.",
+    "phone": "480-858-1660",
+    "review": "Shame on Walter White for plenty of reasons, including throwing a perfectly good Venezia's pie on a roof. The New York-style spot has perfected take-home 'za. Go for a simple cheese pizza and, if you're inclined to dip, know that the ranch is worth buying by the bottle.  ",
+    "name": "Venezia's ",
+    "metro": "Tempe"
+  },
+  {
+    "websiteURL": null,
+    "address": "5223 N. Central Ave., Phoenix.",
+    "phone": "602-279-1111",
+    "review": "Do I give the Windsor bonus points because I like that one entire wall is covered in cassette tapes, including several I owned in high school? Yes, of course I do. But those are bonus points. I’d go there anyway because I like the atmosphere on the backyard-style patio and they make a good burger. The country vegetable chop is also worth a try if you’re more in the mood for a salad. And if you’re looking for an appetizer, try the Roulettes, as their seasonal peppers are named because some are fairly mild while others… well, you get the picture. ",
+    "name": "The Windsor ",
+    "metro": "Phoenix - Uptown"
+  },
+  {
+    "websiteURL": "https://www.persepshenarizona.com/",
+    "address": "4700 N. Central Ave., Phoenix.",
+    "phone": "602-935-2932",
+    "review": "Persepshen is a husband and wife-owned restaurant where Jason Dwight is the chef, who butchers nose to tail, cooks in a wood-fired oven and cures meat in-house, and Katherine, who bakes bread and desserts. Local, organic and sustainable are what the couple believes in and executes to perfection at their stellar restaurant.  ",
+    "name": "Persepshen ",
+    "metro": "Phoenix - Uptown"
+  },
+  {
+    "websiteURL": "https://www.moraitalian.com/",
+    "address": "5651 N. Seventh St., Phoenix.",
+    "phone": "602-795-9943",
+    "review": "Food Network star Scott Conant puts his own twist on classic Italian food in uptown Phoenix. The pasta-heavy menu includes the dish that made him famous: the signature pasta al pomodoro made with spaghetti in a sweet-savory, basil-flecked tomato sauce.   ",
+    "name": "Mora Italian ",
+    "metro": "Phoenix - Uptown"
+  },
+  {
+    "websiteURL": null,
+    "address": "4404 N. Central Ave., Phoenix.",
+    "phone": "602-234-2100",
+    "review": "Chris Bianco opened this sandwich shop in 2005, offering fresh focaccia sandwiches. It won't take you long to find a favorite sandwich from the small but mighty menu, though don't overlook the fantastic lineup of pizzas, salads and desserts, either.  ",
+    "name": "Pane Bianco ",
+    "metro": "Phoenix - Uptown"
+  },
+  {
+    "websiteURL": "http://richardsonsnm.com/",
+    "address": "6335 N. 16th St., Phoenix.",
+    "phone": "602-287-8900",
+    "review": "In a beautiful stone house with dim lights and a fireplace, excellent service, great food and a cozy if occasionally crowded downstairs bar, The Rokerij is a standby for a nice romantic evening. The name is Dutch for smokehouse and they offer a great selection of steaks, from the New Mexican sirloin topped with peppercorn whiskey lime sauce to the Rokerij steak, a bacon-wrapped filet with king crab and jalapeno hollandaise. Other dishes I’ve enjoyed include the New Mexican enchiladas and the carne adovada. ",
+    "name": "The Rokerij ",
+    "metro": "Phoenix - Uptown"
+  },
+  {
+    "websiteURL": "https://www.chulaseafood.com/",
+    "address": "100 E. Camelback Road, Suite 172, Phoenix.",
+    "phone": "602-354-3599",
+    "review": "I love to take people who scoff at the idea of great seafood in the desert — silly considering we're only a four-hour drive to the sea — to Chula Uptown for lunch. Fresh-caught fish, much of it from Chula's very own fishing boats in San Diego, are stuffed into creative sandwiches, grilled and tossed over salads or sold raw for those who prefer to cook at home. I can rarely resist taking home a pound of palm-size prawns from Puerto Peñasco to grill, and I have yet to resist ordering the fish burrito. Layered with grilled fish, French fries, guacamole and a tangy Baja sauce, it is more than the sum of its parts. ",
+    "name": "Chula Seafood ",
+    "metro": "Phoenix - Uptown"
+  },
+  {
+    "websiteURL": "https://luxcoffee.com",
+    "address": "4402 N. Central Ave., Phoenix.",
+    "phone": "602-327-1396",
+    "review": "This eclectic coffee shop is a classic hangout for creatives and hipsters who meet over coffee and pastries or a glass of wine and let the ideas flow. More than just a cool scene, this shop roasts its own excellent coffee in-house.   ",
+    "name": "Lux Cafe ",
+    "metro": "Phoenix - Uptown"
+  },
+  {
+    "websiteURL": "https://hot-dogs-la-yaquesita.business.site/?utm_source=gmb&utm_medium=referral",
+    "address": "11498 W. Buckeye Road, Avondale.",
+    "phone": "602-500-6634",
+    "review": "Sonoran Hot Dogs are a staple in Arizona. And, sure, you can get a classic Sonoran dog anywhere around the Valley, but at La Yakisita, they put their own twist on them to create something even better, like the chorizo-dogo and the chile-dogo, which are exactly what they sound like. ",
+    "name": "Hot Dogs La Yakisita ",
+    "metro": "West Valley - Avondale"
+  },
+  {
+    "websiteURL": "https://tortasmanantial.com/",
+    "address": "10665 W. Indian School Road, Suite A, Avondale. Multiple Valley locations.",
+    "phone": "623-322-3377",
+    "review": "Tortas Manantial is my ultimate haven when I’m craving Mexican tortas. From the savory fillings like pierna pulled pork and chicharron to the perfectly toasted bread, it never disapoints.  ",
+    "name": "Tortas Manatial ",
+    "metro": "West Valley - Avondale"
+  },
+  {
+    "websiteURL": "https://tacarbon.com/",
+    "address": "5834 W. Camelback Road, Glendale.",
+    "phone": "623-463-8134",
+    "review": "If you love mesquite-grilled carne asada, flour tortillas and charcoal refried beans, Ta'Carbon is the place. With two locations in the Valley, the taqueria is a staple for northern Mexican tacos and burritos. When you’re loading up at the salsa bar, don’t miss the charred tatemada salsa and guacamole sauce. ",
+    "name": "Ta'Carbon ",
+    "metro": "West Valley - Glendale"
+  },
+  {
+    "websiteURL": "https://picazzos.com/",
+    "address": "8280 W. Union Hills Drive, Glendale.",
+    "phone": "623-466-0228",
+    "review": "Whether you're gluten-free, vegetarian, vegan, have a severe food allergy or just want to try great pasta and pizza, Picazzo's is your place. Almost everything on the menu is gluten-free, except for the pizzas, which can be made with or without gluten. From the restaurant's first location in Sedona, Picazzo's has grown to six locations across Arizona, and become a household name for Arizonans with dietary restrictions. The Glendale location is my go-to. ",
+    "name": "Picazzo's ",
+    "metro": "West Valley - Glendale"
+  },
+  {
+    "websiteURL": null,
+    "address": null,
+    "phone": null,
+    "review": "If you want to try authentic Sonoran flavors, look no further than Birrieria Obregon, where seafood, bichis and of course birria are the stars. For me, the best dishes are the tacos de cabeza, caguamanta soup made with ray and the chicharrón accompanied by a special bichi, also known as consomé, broth of caguamanta. ",
+    "name": "Birrieria Obregon ",
+    "metro": "West Valley - Glendale"
+  },
+  {
+    "websiteURL": "https://peoriaartisanbrewing.com/",
+    "address": "10144 W. Lake Pleasant Pkwy., #1130, Peoria.",
+    "phone": "623-572-2816",
+    "review": "In a part of town where chain restaurants reign supreme, Peoria Artisan Brewery is a bastion of culinary light. In addition to a fantastic lineup of beers brewed on-site, including some very good sours, the menu takes classic pub grub to the next level with a seriously great burger and excellent pit barbecue on the weekends. The namesake PAB Burger comes topped with bacon jam, aioli and muenster cheese on a brioche bun. It's marvelous. ",
+    "name": "Peoria Artisan Brewery ",
+    "metro": "West Valley - Peoria"
+  },
+  {
+    "websiteURL": "http://www.fabioonfire.com/",
+    "address": null,
+    "phone": null,
+    "review": "Fabio on Fire Panini and Gelateria is a West Valley gem where chef Fabio Ceschetti uses 72-hour fermented dough for sandwiches layered with the likes of burrata, pesto and prosciutto finished with a drizzle of good olive oil. I’d be there weekly if I lived closer. ",
+    "name": "Fabio on Fire Panini ",
+    "metro": "West Valley - Peoria"
+  },
+  {
+    "websiteURL": "https://thesicilianbutcher.com",
+    "address": null,
+    "phone": null,
+    "review": "A night out for a delicious Italian meal shouldn’t have to break the bank. Thank goodness for The Sicilian Butcher’s tapas menu – available during happy hour, which is offered all day at the bar and high-top tables. I like to order a plate of traditional bruschetta and a bowl of Tomaso’s meatballs with their excellent picchio pacchiu sauce (a blend of tomatoes, garlic, basil, butter and olive oil) for $8 each. And don’t skip dessert at the neighboring Sicilian Baker, where you can get cannolis with your choice of 12 different fillings. ",
+    "name": "The Sicilian Butcher ",
+    "metro": "West Valley - Peoria"
+  },
+  {
+    "websiteURL": "http://www.jdcampbells.com/",
+    "address": "9098 W. Pinnacle Peak Road.",
+    "phone": "623-825-9500",
+    "review": "Longtime West Valley residents know what a staple the old-school building at the corner of 91st Avenue and Pinnacle Peak Road is. The former gas station and country store adorned with hitching posts for guests who arrived on horseback is now a family-style breakfast and lunch restaurant serving the north Peoria community. Though the building's main purpose has changed, the classic exterior and the family owners have not. And that's a good thing. ",
+    "name": "Campbell's  ",
+    "metro": "West Valley - Peoria"
+  },
+  {
+    "websiteURL": "https://calitacosrestaurant.com/",
+    "address": "9820 W. Lower Buckeye Road # 103, Tolleson. Other Valley locations.",
+    "phone": "623-594-3002",
+    "review": "The West Valley is the place to go for tacos and Cali Tacos serves up the classics like carne asada, al pastor, carnitas and their popular birria tacos. They are my reliable, go-to taco spot. ",
+    "name": "Cali Tacos ",
+    "metro": "West Valley - Tolleson"
+  },
+  {
+    "websiteURL": "https://www.facebook.com/seafood7mares/",
+    "address": "10740 W. Lower Buckeye Road, Tolleson.",
+    "phone": "623-936-6005",
+    "review": "Mariscos 7 Mares stands out as my quintessential destination for indulging in a diverse array of Mexican seafood dishes, from fish tacos to seafood empanadas. I go for the ceviche and their signature seafood cocktails, which I feel capture the rich coastal flavors of Mexico. ",
+    "name": "Mariscos 7 Mares ",
+    "metro": "West Valley - Tolleson"
+  }
+]
